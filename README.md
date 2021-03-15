@@ -1,2 +1,4 @@
-# storage
-To automate the lun provisioning in python in my environment.
+# Devops
+MAster devops in 30days
+
+
